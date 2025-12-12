@@ -23,8 +23,8 @@ A simple, interactive command-line calculator written in Python that supports ba
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/pasindulekamwasam/calculator.git
-cd calculator
+git clone https://github.com/pasindulekamwasam/simple-python-calculator.git
+cd simple-python-calculator
 ```
 
 2. Ensure you have Python 3.x installed:
@@ -36,7 +36,7 @@ python --version
 
 Run the calculator:
 ```bash
-python calculator.py
+python cal ver.02.py
 ```
 
 ### Menu Options
@@ -105,7 +105,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Pasindu Madhusara Lekamwasam
 
-Project Link: [https://github.com/pasindulekamwasam/calculator](https://github.com/pasindulekamwasam/calculator)
+Project Link: [https://github.com/pasindulekamwasam/simple-python-calculator](https://github.com/pasindulekamwasam/simple-python-calculator)
 
 ## Acknowledgments
 
